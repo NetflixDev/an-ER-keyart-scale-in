@@ -1,7 +1,7 @@
 {
-  "name": "@netflixadseng/an-ER-making-a-murderer",
+  "name": "@netflixadseng/an-ER-keyart-scale-in",
   "version": "5.0.0",
-  "description": "Netflix Animation: Making a Murderer",
+  "description": "Netflix Animation: Keyart Scale In",
   "scripts": {
     "init": "node lib/api.js --cmd install",
     "localhost": "sh lib/confirm_env.sh 'http-server ./ -p 8000'",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NetflixDev/an-ER-making-a-murderer.git"
+    "url": "https://github.com/NetflixDev/an-ER-keyart-scale-in.git"
   },
   "main": "./src/main.js",
   "devDependencies": {
@@ -48,14 +48,14 @@
     "compatibility": [
       "8c417243-849b-4868-8eb9-91063e2f3d80"
     ],
-    "name": "an-ER-making-a-murderer",
+    "name": "an-ER-keyart-scale-in",
     "description": "Keyart scale in then endframe elements fade in",
     "type": "animations",
     "context": "Default",
     "state": "published",
-    "updated": 1553811412131,
-    "full_name": "NetflixDev/an-ER-making-a-murderer",
-    "html_url": "https://github.com/NetflixDev/an-ER-making-a-murderer",
+    "updated": 1553815424251,
+    "full_name": "NetflixDev/an-ER-keyart-scale-in",
+    "html_url": "https://github.com/NetflixDev/an-ER-keyart-scale-in",
     "username": "GitHub",
     "version": "5.0.0",
     "minimum": "3.0.0"
