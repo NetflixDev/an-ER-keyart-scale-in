@@ -46,14 +46,15 @@
   "genericSource": {
     "id": "38c5e900-def1-4531-8297-31e6eaa2b7e7",
     "compatibility": [
-      "8c417243-849b-4868-8eb9-91063e2f3d80"
+      "8c417243-849b-4868-8eb9-91063e2f3d80",
+      "d0060a26-25ca-433c-b809-c02c32ecf097"
     ],
     "name": "an-ER-keyart-scale-in",
     "description": "Keyart scale in then endframe elements fade in",
     "type": "animations",
     "context": "Default",
     "state": "published",
-    "updated": 1553815424251,
+    "updated": 1554335686102,
     "full_name": "NetflixDev/an-ER-keyart-scale-in",
     "html_url": "https://github.com/NetflixDev/an-ER-keyart-scale-in",
     "username": "GitHub",
