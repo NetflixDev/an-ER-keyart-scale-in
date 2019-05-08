@@ -2,7 +2,7 @@ var Creative = function () {
 	this.play = function () {
 		console.log('Creative.play()')
 
-		TweenLite.to(View.endFrame.keyart, 2, {
+		TweenLite.to(View.endFrame.background, 2, {
 			scale: 1.1,
 			delay: 0
 		})
